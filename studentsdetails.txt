@@ -1,0 +1,3 @@
+name:sheefa
+usn:1gc25cs075
+sem:3ed sem
